@@ -33,15 +33,15 @@ const SideBar = () => {
 
 	return (
 		<div className="fixed top-0 right-2 h-screen w-10 m-0 flex flex-col justify-evenly bg-primary text-gray-100 opacity-70">
-			<SideBarIcon icon={<GiJapan size="28" color="black" />} onClick={() => scrollToSection('top')} />
+			<SideBarIcon icon={<GiJapan size="28"  />} onClick={() => scrollToSection('top')} />
 			<Divider />
-			<SideBarIcon icon={<FaBowlFood size="28" color="black" />} onClick={() => scrollToSection('section-1')} />
-			<SideBarIcon icon={<FaPersonSwimming size="28" color="black" />} onClick={() => scrollToSection('section-2')} />
-			<SideBarIcon icon={<FaStore size="28" color="black" />} onClick={() => scrollToSection('section-3')} />
-			<SideBarIcon icon={<FaPeopleRoof size="28" color="black" />} onClick={() => scrollToSection('section-4')} />
-			<SideBarIcon icon={<FaMoneyBill size="28" color="black" />} onClick={() => scrollToSection('section-5')} />
-			<SideBarIcon icon={<FaHospital size="28" color="black" />} onClick={() => scrollToSection('section-6')} />
-			<SideBarIcon icon={<FaPersonMilitaryPointing size="28" color="black" />} onClick={() => scrollToSection('section-7')} />
+			<SideBarIcon icon={<FaBowlFood size="28"  />} onClick={() => scrollToSection('section-1')} />
+			<SideBarIcon icon={<FaPersonSwimming size="28"  />} onClick={() => scrollToSection('section-2')} />
+			<SideBarIcon icon={<FaStore size="28"  />} onClick={() => scrollToSection('section-3')} />
+			<SideBarIcon icon={<FaPeopleRoof size="28"  />} onClick={() => scrollToSection('section-4')} />
+			<SideBarIcon icon={<FaMoneyBill size="28"  />} onClick={() => scrollToSection('section-5')} />
+			<SideBarIcon icon={<FaHospital size="28"  />} onClick={() => scrollToSection('section-6')} />
+			<SideBarIcon icon={<FaPersonMilitaryPointing size="28"  />} onClick={() => scrollToSection('section-7')} />
 			<Divider />
 			<SideBarIcon icon={<FaTaxi size="28" className="text-yellow-500" />} onClick={toggleTaxiModal} />
 			{showTaxiModal && <TaxiModal onClose={toggleTaxiModal} />}

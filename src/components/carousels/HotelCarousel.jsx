@@ -1,7 +1,7 @@
 "use client";
 
 import { Carousel } from "flowbite-react";
-import WaterMarkW from '../../assets/BStoddardPhotos/watermark/BSPHOTO_white.png';
+// import WaterMarkW from '../../assets/BStoddardPhotos/watermark/BSPHOTO_white.png';
 import WaterMarkB from '../../assets/BStoddardPhotos/watermark/BSPHOTO_black.png';
 import Hotel_11 from "../../assets/BStoddardPhotos/Hotels/yanbaru/Hotel_11.png";
 import Hotel_12 from "../../assets/BStoddardPhotos/Hotels/yanbaru/Hotel_12.png";
