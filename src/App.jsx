@@ -29,10 +29,10 @@ const App = () => {
   const [sidebarPosition, setSidebarPosition] = React.useState('mr-20');
 
   const toggleSidebarPosition = () => {
-    if (sidebarPosition === 'mr-20') {
-      setSidebarPosition('ml-20');
+    if (sidebarPosition === 'mr-10') {
+      setSidebarPosition('ml-10');
     } else {
-      setSidebarPosition('mr-20');
+      setSidebarPosition('mr-10');
     }
   };
 
