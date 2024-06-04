@@ -28,3 +28,5 @@ export function TaxiModal({ onClose }) {
         </Modal>
     );
 }
+
+// TODO make numbers clickable for phonecalls
