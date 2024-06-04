@@ -1,3 +1,55 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/*! Helper */
+* {
+    /* outline: 1px red solid; */
+}
+
+/* Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Sans+JP:wght@900&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap");
+
+
+@layer components {
+	/*? Sidebar- positioning of the icons */
+	.sidebar-icon {
+		@apply relative flex items-center justify-center 
+        h-12 w-12 mt-2 mb-2 mx-auto
+        
+    /*? SideBar- transition for hover */
+    bg-gray-400 hover:bg-white dark:bg-gray-800 
+    text-white hover:text-red-600
+        hover:rounded-xl rounded-3xl
+        transition-all duration-300 ease-linear
+        cursor-pointer shadow-lg;
+	}
+}
+
+
+.shadow-primary {
+	padding: 15px;
+	/*? First Shadow- Offset 2px right 1px down, blur radius 18px, color of white */
+	--tw-shadow: 2px 1px 18px rgb(255, 255, 255),
+		/*? Second Shadow- Offset 1px right 4px down, blur radius 10px, color of [primary] */
+			1px 4px 10px #afbacc;
+	box-shadow: var(--tw-ring-offset-shadow, 10px 10px #eb0808),
+		var(--tw-ring-shadow, 10px 10px #d60707), var(--tw-shadow);
+}
+
+/* carousel image x-adjuster */
+.carousel-image-fitted {
+    width: 100%;
+}
+
+.carousel-slide {
+    position: relative;
+    height: 100%;
+}
+
+.watermark-container {
+    position: absolute;
+    bottom: 10px; /* Adjust as needed */
+    right: 10px; /* Adjust as needed */
+}

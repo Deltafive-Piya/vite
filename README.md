@@ -337,7 +337,7 @@ Photos
     - update project dependencies
 
 ## <span style= "color:gold;">Switch to Vue</span> 
-App.jsx -> App.vue
+App.jsx -> App.vue (Once Node updated)
 [Flowbite-Vue](https://flowbite-vue.com/pages/getting-started)
 
 ## <span style= "color:gold;">Minor takeaways</span>
