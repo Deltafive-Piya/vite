@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <h1 className="text-3xl font-bold underline">
-          Hello Vite and Tailwind
+          Hello Vite and Tailwindsss
         </h1>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
