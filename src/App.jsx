@@ -111,7 +111,7 @@ const App = () => {
         />
         <div className="absolute inset-0 flex flex-col justify-center items-center">
           <h2 className="text-4xl font-noto text-black rounded-2xl shadow-primary bg-white bg-opacity-40">
-            ショピング
+            ショッピング
           </h2>
           <h3 className="text-3xl font-lynda text-black rounded-2xl shadow-primary mt-8">
             Shopping
@@ -139,7 +139,7 @@ const App = () => {
         />
         <div className="absolute inset-0 flex flex-col justify-center items-center">
           <h2 className="text-4xl font-noto text-black rounded-2xl shadow-primary bg-white bg-opacity-40">
-          リラックス
+            リラックス
           </h2>
           <h3 className="text-3xl font-lynda text-black rounded-2xl shadow-primary mt-8">
             Relax
@@ -167,10 +167,10 @@ const App = () => {
         />
         <div className="absolute inset-0 flex flex-col justify-center items-center">
           <h2 className="text-4xl font-noto text-black rounded-2xl shadow-primary bg-white bg-opacity-40">
-          両替
+            両替
           </h2>
           <h3 className="text-3xl font-lynda text-black rounded-2xl shadow-primary mt-8">
-          Money Exchange (Ryou-gaeh)
+            Money Exchange (Ryou-gaeh)
           </h3>
           <a href="https://bstoddardphoto.smugmug.com">
             <img
