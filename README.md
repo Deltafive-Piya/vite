@@ -349,3 +349,21 @@ App.jsx -> App.vue (Once Node updated)
 <span style= "color:white;">[Tailwind dont need flexbox](https://youtu.be/x1RJ5Q09PqM?t=261)</span>
 
 <span style= "color:white;">[Deploying a Static Vite Site](https://vitejs.dev/guide/static-deploy) </span>
+
+## Peer Review
+Brent S.
+- Ryukyu Travel Page should have a lighter background or be white.
+- The taxis are not daikos
+- When clicking on websites such as Lynda's or Brent's hyperlinks, code "Open link in new tab", or "Open link in new window".
+- Shisa's could be bigger on home page
+- Add words to the links on the side (pictures are not easy to recognize).
+- Left-Right arrows a little hidden on the food
+- x in Lynk Ynk Tattoos does not close anything
+- Add, maybe the english equivalent of the food names to the bold names also
+- Sun City Shopping Arcade left/right is not very visible
+- Can't hardly see the text on the bottom of the page "2024 Deltafive-Piya"
+- PARCO City should be PARCO CITY or Parco City
+
+Hitomi S.
+- Kanji/Katakana/Hiragana Review
+- Hogen Review
