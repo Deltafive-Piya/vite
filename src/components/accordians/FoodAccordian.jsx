@@ -7,7 +7,7 @@ export function FoodAccordian() {
     return (
         <Accordion collapseAll>
             <Accordion.Panel>
-                <Accordion.Title>ラフテー Rafute</Accordion.Title>
+                <Accordion.Title>三枚肉 Sanmainiku</Accordion.Title>
                 <Accordion.Content>
                     <p className="mb-8 text-gray-500 dark:text-gray-400">
                         Braised Pork Belly
@@ -18,7 +18,7 @@ export function FoodAccordian() {
                 <Accordion.Title>ソーキ Soki</Accordion.Title>
                 <Accordion.Content>
                     <p className="mb-8 text-gray-500 dark:text-gray-400">
-                        Stewed Whole Ribs
+                    Stewed Pork Rib (Hard-bone in)
                     </p>
                 </Accordion.Content>
             </Accordion.Panel>
@@ -42,7 +42,7 @@ export function FoodAccordian() {
                 <Accordion.Title>中味 Nakami</Accordion.Title>
                 <Accordion.Content>
                     <p className="mb-1 text-gray-500 dark:text-gray-400">
-                        Boar Innards
+                        Pork Innards
                     </p>
                 </Accordion.Content>
             </Accordion.Panel>
