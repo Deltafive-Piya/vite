@@ -23,7 +23,7 @@ export function FoodAccordian() {
                 </Accordion.Content>
             </Accordion.Panel>
             <Accordion.Panel>
-                <Accordion.Title>チャンプル Champuru</Accordion.Title>
+                <Accordion.Title>チャンプルー Champuru</Accordion.Title>
                 <Accordion.Content>
                     <p className="mb-8 text-gray-500 dark:text-gray-400">
                         Okinawa Style Stir-Fry
