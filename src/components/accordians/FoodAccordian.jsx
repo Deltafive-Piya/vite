@@ -18,7 +18,7 @@ export function FoodAccordian() {
                 <Accordion.Title>ソーキ Soki</Accordion.Title>
                 <Accordion.Content>
                     <p className="mb-8 text-gray-500 dark:text-gray-400">
-                    Stewed Pork Rib (Hard-bone in)
+                    Stewed Pork Rib (with cartilage)
                     </p>
                 </Accordion.Content>
             </Accordion.Panel>
