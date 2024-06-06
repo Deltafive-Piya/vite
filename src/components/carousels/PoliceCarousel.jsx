@@ -15,7 +15,7 @@ export function PoliceCarousel() {
                 {/* Yanbaru Banking */}
                 <Carousel slide={true} pauseOnHover indicators={false}>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Police_1} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Police_1} alt="police vehicle frontal view 1" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Smooth </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -24,7 +24,7 @@ export function PoliceCarousel() {
                         </div>
                     </div>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Police_2} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Police_2} alt="police vehicle frontal view 2" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Operator </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -37,7 +37,7 @@ export function PoliceCarousel() {
                 {/* YYY Banking */}
                 <Carousel slide={true} pauseOnHover indicators={false}>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Police_3} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Police_3} alt="police vehicle frontal view 3" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Smoother </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -47,7 +47,7 @@ export function PoliceCarousel() {
                     </div>
 
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Police_4} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Police_4} alt="police vehicle frontal view 4" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Operator </h3>
                             <a href="https://bstoddardphoto.smugmug.com">

@@ -274,30 +274,31 @@ npm run dev
 - Shisa's could be bigger on home page.
   - <span style="color:white;">Header</span><span style="color:gold;">√</span>
 - Add words to the links on the side (pictures are not easy to recognize).
-  - <span style="color:white;">Sidebar</span>
+  - <span style="color:white;">Sidebar (intentional omission due to multi-national audience)</span><span style="color:gold;">√</span>
 - Left-Right arrows a little hidden on the food.
-  - <span style="color:white;">Food carousel</span>
+  - <span style="color:white;">Food carousel</span><span style="color:gold;">√</span>
 - x in Lynk Ynk Tattoos does not close anything.
   - <span style="color:white;">Feature w/alert, not a bug?</span><span style="color:gold;">√</span>
 - Add, maybe the english equivalent of the food names to the bold names also.
   - <span style="color:white;">Maybe Accordian isnt optimal?</span><span style="color:gold;">√</span>
 - Sun City Shopping Arcade left/right is not very visible.
-  - <span style="color:white;">Shopping Carousel</span>
+  - <span style="color:white;">Shopping Carousel</span><span style="color:gold;">√</span>
 - Can hardly see the text on the bottom of the page "2024 Deltafive-Piya".
   - <span style="color:white;">Footer</span><span style="color:gold;">√</span>
 - PARCO City should be PARCO CITY or Parco City.
   - <span style="color:white;">Shopping Carousel</span>
 
 **Hitomi S. (1-on-1 videocall)** <span style="color:gold;">√</span>
-- Kanji/Katakana/Hiragana Review
-- Hogen Review
+- Kanji/Katakana/Hiragana Review<span style="color:gold;">√</span>
+- Hogen Review<span style="color:gold;">√</span>
 
 ## <span style= "color:gold;">Post Checklist √</span>
 
 - Inspect:
   - functional stress-test √
-  - documentation
-  - alt descriptions
+  - alt descriptions √
+  - documentation √
+  
 - Future Patches:
   - ShoppingCarousel Position
   - Carousel Watermarks Positioning

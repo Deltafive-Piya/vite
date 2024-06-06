@@ -38,6 +38,7 @@ const App = () => {
 
   return (
     <div className={`flex-col min-h-screen space-y-2 ${sidebarPosition}`}>
+      
       <Header />
       <TravelBanner />
       <TravelCarousel />

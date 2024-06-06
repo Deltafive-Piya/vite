@@ -18,7 +18,7 @@ export function ShoppingCarousel() {
             <Carousel slide={true} pauseOnHover>
 
                 <div className="relative">
-                    <img className="opacity-40 flex justify-center" src={Shopping_1} alt="old shopping arcade in " />
+                    <img className="opacity-50 flex justify-center" src={Shopping_1} alt="Sun City Arcade entrance view" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center">
                         <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> SUN CITY ARCADE </h3>
                         <a href="https://bstoddardphoto.smugmug.com">

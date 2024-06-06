@@ -19,7 +19,7 @@ export function FoodCarousel() {
             {/* <Carousel slide={false} pauseOnHover> */}
             <Carousel slide={true} pauseOnHover>
                 <div className="relative">
-                    <img className="carousel-image-fitted opacity-40" src={Food_3} alt="sanmainiku soab" />
+                    <img className="carousel-image-fitted opacity-80" src={Food_3} alt="sanmainiku soab" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
                         <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> SANMAINIKU </h3>
                         <a href="https://bstoddardphoto.smugmug.com">
@@ -28,7 +28,7 @@ export function FoodCarousel() {
                     </div>
                 </div>
                 <div className="relative">
-                    <img className="carousel-image-fitted opacity-40" src={Food_1} alt="soki soba" />
+                    <img className="carousel-image-fitted opacity-70" src={Food_1} alt="soki soba" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
                         <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> SOKI </h3>
                         <a href="https://bstoddardphoto.smugmug.com">
@@ -37,7 +37,7 @@ export function FoodCarousel() {
                     </div>
                 </div>
                 <div className="relative">
-                    <img className="carousel-image-fitted opacity-40" src={Food_2} alt="traditional stir-fry dish" />
+                    <img className="carousel-image-fitted opacity-70" src={Food_2} alt="traditional stir-fry dish" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
                         <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> CHAMPURU </h3>
                         <a href="https://bstoddardphoto.smugmug.com">
@@ -46,7 +46,7 @@ export function FoodCarousel() {
                     </div>
                 </div>
                 <div className="relative">
-                    <img className="carousel-image-fitted opacity-40" src={Food_4} alt="goya champuru" />
+                    <img className="carousel-image-fitted opacity-50" src={Food_4} alt="goya champuru" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
                         <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> GOYA </h3>
                         <a href="https://bstoddardphoto.smugmug.com">
@@ -55,7 +55,7 @@ export function FoodCarousel() {
                     </div>
                 </div>
                 <div className="relative">
-                    <img className="carousel-image-fitted opacity-40" src={Food_5} alt="nakami soba" />
+                    <img className="carousel-image-fitted opacity-50" src={Food_5} alt="nakami soba" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
                         <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> NAKAMI </h3>
                         <a href="https://bstoddardphoto.smugmug.com">

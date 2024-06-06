@@ -15,7 +15,7 @@ export function HotelCarousel() {
                 {/* Yanbaru Hotel */}
                 <Carousel slide={true} pauseOnHover indicators={false}>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Hotel_11} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Hotel_11} alt="Yanbaru Hostel interor" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> やんばるホステル </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -24,7 +24,7 @@ export function HotelCarousel() {
                         </div>
                     </div>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Hotel_12} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Hotel_12} alt="Yanbaru Hostel bar closeup" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Yanbaru Hostel </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -37,7 +37,7 @@ export function HotelCarousel() {
                 {/* YYY Hotel */}
                 <Carousel slide={true} pauseOnHover indicators={false}>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Hotel_21} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Hotel_21} alt="AIEN Coffee exterior view" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> アイエン コーヒー＆ホステル </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -47,7 +47,7 @@ export function HotelCarousel() {
                     </div>
             
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Hotel_22} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Hotel_22} alt="AIEN Coffee interior view" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Aien Coffee & Hostel </h3>
                             <a href="https://bstoddardphoto.smugmug.com">

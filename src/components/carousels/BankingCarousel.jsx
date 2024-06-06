@@ -15,7 +15,7 @@ export function BankingCarousel() {
                 {/* Yanbaru Banking */}
                 <Carousel slide={false} pauseOnHover indicators={false}>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Banking_11} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Banking_11} alt="Chatan Exchange hours" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Chatan Exchange </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -24,7 +24,7 @@ export function BankingCarousel() {
                         </div>
                     </div>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Banking_12} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Banking_12} alt="Chatan Exchange entrance" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Chatan Exchange </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -37,7 +37,7 @@ export function BankingCarousel() {
                 {/* YYY Banking */}
                 <Carousel slide={false} pauseOnHover indicators={false}>
                     <div className="relative">
-                        <img className="opacity-40 flex justify-center" src={Banking_21} alt="old shopping arcade in " />
+                        <img className="opacity-40 flex justify-center" src={Banking_21} alt="Community Bank interior" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Chatan Community Bank </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
@@ -47,7 +47,7 @@ export function BankingCarousel() {
                     </div>
             
                     <div className="relative">
-                        <img className="opacity-20 flex justify-center" src={Banking_22} alt="old shopping arcade in " />
+                        <img className="opacity-20 flex justify-center" src={Banking_22} alt="Community Bank stand" />
                         <div className="absolute inset-0 flex flex-col justify-center items-center">
                             <h3 className="sm:text-lg xl:text-2xl 2xl:text-3xl text-black scale-x-95 tracking-widest font-akuya"> Chatan Community Bank </h3>
                             <a href="https://bstoddardphoto.smugmug.com">
