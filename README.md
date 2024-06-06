@@ -65,7 +65,7 @@ npm run dev
     		theme: {
     			extend: {
     				fontFamily:{
-    					akuya:["Tajawal", "sans-serif"]
+    					akuya:["Tajawal:wght@200", "sans-serif"]
     ```
 
     3.  apply font @App.jsx:
@@ -266,25 +266,25 @@ npm run dev
 ## Peer Review
 **Brent S.** <span style="color:gold;">√</span>
 - Ryukyu Travel Page should have a lighter background or be white.
-  - <span style="color:white;">Header</span>
+  - <span style="color:white;">Header</span><span style="color:gold;">√</span>
 - The taxis are not daikos.
-  - <span style="color:white;">Modal-taxi</span>
+  - <span style="color:white;">Modal-taxi</span></span><span style="color:gold;">√</span>
 - When clicking on websites such as Lynda's or Brent's hyperlinks, code "Open link in new tab", or "Open link in new window".
-  - <span style="color:white;">Alerts x2</span>
+  - <span style="color:white;">Alerts x2</span><span style="color:gold;">√</span>
 - Shisa's could be bigger on home page.
-  - <span style="color:white;">Header</span>
+  - <span style="color:white;">Header</span><span style="color:gold;">√</span>
 - Add words to the links on the side (pictures are not easy to recognize).
   - <span style="color:white;">Sidebar</span>
 - Left-Right arrows a little hidden on the food.
   - <span style="color:white;">Food carousel</span>
 - x in Lynk Ynk Tattoos does not close anything.
-  - <span style="color:white;">Feature w/alert, not a bug?</span>
+  - <span style="color:white;">Feature w/alert, not a bug?</span><span style="color:gold;">√</span>
 - Add, maybe the english equivalent of the food names to the bold names also.
-  - <span style="color:white;">Maybe Accordian isnt optimal?</span>
+  - <span style="color:white;">Maybe Accordian isnt optimal?</span><span style="color:gold;">√</span>
 - Sun City Shopping Arcade left/right is not very visible.
   - <span style="color:white;">Shopping Carousel</span>
 - Can hardly see the text on the bottom of the page "2024 Deltafive-Piya".
-  - <span style="color:white;">Footer</span>
+  - <span style="color:white;">Footer</span><span style="color:gold;">√</span>
 - PARCO City should be PARCO CITY or Parco City.
   - <span style="color:white;">Shopping Carousel</span>
 

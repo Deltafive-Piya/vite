@@ -8,7 +8,11 @@ export default {
     flowbite.content(),
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        akuya:["Tajawal:wght@200", "consolas"]
+      }
+    },
   },
   plugins: [
     flowbite.plugin(),

@@ -3,12 +3,12 @@ import okinawaShisaR from '../assets/header/shisadog-right.jpg';
 
 const Header = () => {
     return (
-        <header className="text-2xl font-lynda p-2 rounded-md bg-gray-800 opacity-90 text-secondary mb-2 mt-2">
+        <header className="text-2xl font-lynda p-2 rounded-md bg-gray-900 opacity-90 text-stone-200 mb-2 mt-2">
             <div className="flex justify-evenly">
 
                 {/* left */}
                 <div>
-                    <img src={okinawaShisaL} alt="Female Shisa dog" className="size-6 w-auto" />
+                    <img src={okinawaShisaL} alt="Female Shisa dog" className="size-12 w-auto" />
                 </div>
 
                 {/* middle */}
@@ -18,7 +18,7 @@ const Header = () => {
 
                 {/* right */}
                 <div>
-                    <img src={okinawaShisaR} alt="Male Shisa dog" className="size-6 w-auto" />
+                    <img src={okinawaShisaR} alt="Male Shisa dog" className="size-12 w-auto" />
                 </div>
             </div>
         </header>);

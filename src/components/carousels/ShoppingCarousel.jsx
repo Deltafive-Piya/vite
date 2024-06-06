@@ -20,7 +20,7 @@ export function ShoppingCarousel() {
                 <div className="relative">
                     <img className="opacity-40 flex justify-center" src={Shopping_1} alt="old shopping arcade in " />
                     <div className="absolute inset-0 flex flex-col justify-center items-center">
-                        <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> SUN CITY SHOPPING ARCADE </h3>
+                        <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> SUN CITY ARCADE </h3>
                         <a href="https://bstoddardphoto.smugmug.com">
                             <img className="absolute bottom-0 right-0 mr-4 mb-24 opacity-90 max-w-6" src={WaterMarkB} alt="B StoddardPhotos Watermark" />
                         </a>
@@ -30,7 +30,7 @@ export function ShoppingCarousel() {
                 <div className="relative">
                     <img className="opacity-40" src={Shopping_2} alt="Parco City Urasoe Entrance Sign" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
-                        <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> Urasoe </h3>
+                        <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> URASOE </h3>
                         <a href="https://bstoddardphoto.smugmug.com">
                             <img className="absolute bottom-0 right-0 mr-4 mb-7 opacity-90 max-w-6" src={WaterMarkW} alt="B StoddardPhotos Watermark" />
                         </a>
@@ -40,7 +40,7 @@ export function ShoppingCarousel() {
                 <div className="relative">
                     <img className="opacity-40" src={Shopping_3} alt="Parco City Urasoe second floor view of escalators" />
                     <div className="absolute inset-0 flex flex-col justify-center items-center ">
-                        <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> PARCO City</h3>
+                        <h3 className="sm:text-4xl xl:text-5xl 2xl:text-6xl text-black scale-x-95 tracking-widest font-akuya"> PARCO CITY</h3>
                         <a href="https://bstoddardphoto.smugmug.com">
                             <img className="absolute bottom-0 right-0 mr-4 mb-14 opacity-90 max-w-6" src={WaterMarkW} alt="B StoddardPhotos Watermark" />
                         </a>
