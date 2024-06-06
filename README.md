@@ -43,7 +43,7 @@ npm run dev
     ```
 - <span style= "color:white;">Footer</span>
 - <span style= "color:white;">Header</span>
-  - Dis/Appear Button
+  - Left/Right Sidebar switchers
 - <span style= "color:white;">Fonts</span>
 
   - [Google Fonts](https://fonts.google.com/selection/embed)
@@ -191,88 +191,7 @@ npm run dev
   ```
 - [setup GitHub WorkFlow](https://github.com/Deltafive-Piya/Okinawa/settings/actions/runners/new)
 
-## <span style= "color:gold;">Resources</span>
-
-[Okinawa Proverbs](https://www.aonghas-crowe.com/hogen/tag/Okinawan+Proverbs)
-
-[Okinawa bank resource](https://www.okinawa-bank.co.jp/shop_atm_search/maps/index_shop_atm@kubun@atm.html)
-
-[Katakana Translator](https://www.sljfaq.org/cgi/e2k.cgi)
-
-Photos
-
-1. Hello - SANSHIN
-   - A. SPIRIT
-   - B. CULTURAL
-   - C. ABUNDANT
-   - D. HISTORICAL
-   - E. FESTIVE
-2. Food - TEBICHI
-   - B. SOKI
-   - A. SANMAINIKU
-   - C. CHAMPURU
-   - D. GOYA
-   - E. NAKAMI
-3. Activity - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-4. Shopping - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-5. Hotels - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-6. Banking - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-7. Hospital - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-8. Police - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-9. Taxi - XXXXXX
-   - A. xxxxxxxx
-   - B. xxxxxxxx
-   - C. xxxxxxxx
-   - D. xxxxxxxx
-   - E. xxxxxxxx
-
-[Google reviews photos](https://www.google.com/maps/contrib/116082349573020475280/photos/@26.3178186,127.8208574,16z/data=!4m3!8m2!3m1!1e1?entry=ttu)
-
-[Google Drive - Police Hospital](https://drive.google.com/drive/folders/1l-mreFypOtCY0iglZNaHtHKK18ThTVZt)
-
-[Google reviews photos](https://www.google.com/maps/place/Pizza+House+Jr./@26.324732,127.754404,3a,54.2y/data=!3m8!1e2!3m6!1sAF1QipMA1kyb-Q65NnDcuAZ26E7T6KOGvJyCzaNDfbOw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMA1kyb-Q65NnDcuAZ26E7T6KOGvJyCzaNDfbOw%3Dw298-h298-k-no!7i2992!8i2992!4m13!1m2!2m1!1spizza+house+jr!3m9!1s0x34e5130817ea9a25:0xa2c03709bf118906!8m2!3d26.324732!4d127.754404!10e5!14m1!1BCgIYIA!15sCg5waXp6YSBob3VzZSBqciIDiAEBWhAiDnBpenphIGhvdXNlIGpykgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F1tf84vfg?entry=ttu)
-
-## <span style= "color:gold;">Post Checklist √</span>
-
-- Inspect:
-  - functional stress-test √
-  - documentation
-  - alt descriptions
-- Future Patches:
-  - ShoppingCarousel Position
-  - Carousel Watermarks Positioning
-
-## <span style= "color:gold;">Minor challenges</span>
+## <span style= "color:gold;">Obstacles</span>
 
 - Node 16 was depricated; could not deploy until node 20 was installed and used.
   - Install Node 20 (used the official wizard...)
@@ -336,13 +255,7 @@ Photos
 
     - update project dependencies
 
-## <span style= "color:gold;">Switch to Vue</span> 
-App.jsx -> App.vue (Once Node updated)
-[Flowbite-Vue](https://flowbite-vue.com/pages/getting-started)
-
-## <span style= "color:gold;">Minor takeaways</span>
-
-<span style= "color:white;">_opacity helps with position clash_</span>
+## <span style= "color:gold;">Takeaways</span>
 
 <span style= "color:white;">Selection+Ctrl+Shift+P-> _Emmet: wrap with abbreviation_ -> div</span>
 
@@ -351,19 +264,111 @@ App.jsx -> App.vue (Once Node updated)
 <span style= "color:white;">[Deploying a Static Vite Site](https://vitejs.dev/guide/static-deploy) </span>
 
 ## Peer Review
-Brent S.
+**Brent S.** <span style="color:gold;">√</span>
 - Ryukyu Travel Page should have a lighter background or be white.
-- The taxis are not daikos
+  - <span style="color:white;">Header</span>
+- The taxis are not daikos.
+  - <span style="color:white;">Modal-taxi</span>
 - When clicking on websites such as Lynda's or Brent's hyperlinks, code "Open link in new tab", or "Open link in new window".
-- Shisa's could be bigger on home page
+  - <span style="color:white;">Alerts x2</span>
+- Shisa's could be bigger on home page.
+  - <span style="color:white;">Header</span>
 - Add words to the links on the side (pictures are not easy to recognize).
-- Left-Right arrows a little hidden on the food
-- x in Lynk Ynk Tattoos does not close anything
-- Add, maybe the english equivalent of the food names to the bold names also
-- Sun City Shopping Arcade left/right is not very visible
-- Can't hardly see the text on the bottom of the page "2024 Deltafive-Piya"
-- PARCO City should be PARCO CITY or Parco City
+  - <span style="color:white;">Sidebar</span>
+- Left-Right arrows a little hidden on the food.
+  - <span style="color:white;">Food carousel</span>
+- x in Lynk Ynk Tattoos does not close anything.
+  - <span style="color:white;">Feature w/alert, not a bug?</span>
+- Add, maybe the english equivalent of the food names to the bold names also.
+  - <span style="color:white;">Maybe Accordian isnt optimal?</span>
+- Sun City Shopping Arcade left/right is not very visible.
+  - <span style="color:white;">Shopping Carousel</span>
+- Can hardly see the text on the bottom of the page "2024 Deltafive-Piya".
+  - <span style="color:white;">Footer</span>
+- PARCO City should be PARCO CITY or Parco City.
+  - <span style="color:white;">Shopping Carousel</span>
 
-Hitomi S.
+**Hitomi S. (1-on-1 videocall)** <span style="color:gold;">√</span>
 - Kanji/Katakana/Hiragana Review
 - Hogen Review
+
+## <span style= "color:gold;">Post Checklist √</span>
+
+- Inspect:
+  - functional stress-test √
+  - documentation
+  - alt descriptions
+- Future Patches:
+  - ShoppingCarousel Position
+  - Carousel Watermarks Positioning
+
+## <span style= "color:gold;">Resources</span>
+
+[Okinawa Proverbs](https://www.aonghas-crowe.com/hogen/tag/Okinawan+Proverbs)
+
+[Okinawa bank resource](https://www.okinawa-bank.co.jp/shop_atm_search/maps/index_shop_atm@kubun@atm.html)
+
+[Katakana Translator](https://www.sljfaq.org/cgi/e2k.cgi)
+
+[Google reviews photos](https://www.google.com/maps/contrib/116082349573020475280/photos/@26.3178186,127.8208574,16z/data=!4m3!8m2!3m1!1e1?entry=ttu)
+
+[Google Drive - Police Hospital](https://drive.google.com/drive/folders/1l-mreFypOtCY0iglZNaHtHKK18ThTVZt)
+
+[Google reviews photos](https://www.google.com/maps/place/Pizza+House+Jr./@26.324732,127.754404,3a,54.2y/data=!3m8!1e2!3m6!1sAF1QipMA1kyb-Q65NnDcuAZ26E7T6KOGvJyCzaNDfbOw!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMA1kyb-Q65NnDcuAZ26E7T6KOGvJyCzaNDfbOw%3Dw298-h298-k-no!7i2992!8i2992!4m13!1m2!2m1!1spizza+house+jr!3m9!1s0x34e5130817ea9a25:0xa2c03709bf118906!8m2!3d26.324732!4d127.754404!10e5!14m1!1BCgIYIA!15sCg5waXp6YSBob3VzZSBqciIDiAEBWhAiDnBpenphIGhvdXNlIGpykgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F1tf84vfg?entry=ttu)
+
+Photos
+
+1. Hello - SANSHIN
+   - A. SPIRIT
+   - B. CULTURAL
+   - C. ABUNDANT
+   - D. HISTORICAL
+   - E. FESTIVE
+2. Food - TEBICHI
+   - B. SOKI
+   - A. SANMAINIKU
+   - C. CHAMPURU
+   - D. GOYA
+   - E. NAKAMI
+3. Activity - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
+4. Shopping - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
+5. Hotels - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
+6. Banking - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
+7. Hospital - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
+8. Police - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
+9. Taxi - XXXXXX
+   - A. xxxxxxxx
+   - B. xxxxxxxx
+   - C. xxxxxxxx
+   - D. xxxxxxxx
+   - E. xxxxxxxx
