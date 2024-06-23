@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 import SideBar from './components/SideBar';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -25,6 +25,9 @@ import Police_0 from './assets/BStoddardPhotos/Police/Police_0.png';
 import WaterMarkW from './assets/BStoddardPhotos/watermark/BSPHOTO_white.png';
 import WaterMarkB from './assets/BStoddardPhotos/watermark/BSPHOTO_black.png';
 
+// Splash
+import { hideSplashScreen } from 'vite-plugin-splash-screen/runtime';
+
 const App = () => {
   const [sidebarPosition, setSidebarPosition] = React.useState('mr-20');
 
@@ -35,6 +38,10 @@ const App = () => {
       setSidebarPosition('mr-10');
     }
   };
+
+  useEffect(() => {
+    hideSplashScreen();
+  }, []);
 
   return (
     <div className={`flex-col min-h-screen space-y-2 ${sidebarPosition}`}>

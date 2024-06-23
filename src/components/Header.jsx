@@ -13,7 +13,13 @@ const Header = () => {
 
                 {/* middle */}
                 <div className="">
-                    <h5>めんそーれー Ryukyu Travel Page - 沖縄市</h5>
+                    <a
+                        href="https://github.com/Deltafive-Piya/vite"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <h5>めんそーれー Ryukyu Travel Page - 沖縄市</h5>
+                    </a>
                 </div>
 
                 {/* right */}

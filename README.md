@@ -1,6 +1,6 @@
 **April-June 2024 --**
 
-# <span style= "color:white;">Okinawa App ([repo](https://github.com/Deltafive-Piya/Okinawa/tree/main/okiapp))</span>
+# <span style= "color:white;">[Okinawa App](https://deltafive-piya.github.io/vite/) ([repo](https://github.com/Deltafive-Piya/Okinawa/tree/main/okiapp))</span>
 
 ## <span style= "color:gold;">Specification</span>
 
